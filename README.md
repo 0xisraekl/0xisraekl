@@ -1,24 +1,52 @@
 # Hey, I'm Israel 👋
 
-I'm an SDR at Datadog, a former car and solar salesperson, and an AI enthusiast learning how to build useful software with AI.
+I'm an SDR at Datadog, a former car + solar salesperson, and an AI/Web3 learner building practical tools at the intersection of **sales, automation, distribution, and investing**.
 
-Right now I'm focused on becoming dangerous at the intersection of:
+I'm not trying to look like I know everything.
 
-- **AI automation** — building tools that save time, revive leads, and make workflows smarter
-- **Sales + distribution** — studying how companies actually get users and customers
-- **Crypto / Web3** — learning the technical side of crypto, DeFi, and on-chain tooling
-- **Investing research** — building systems to think more clearly about companies, markets, and risk
-- **Operator projects** — turning ideas into small, real products instead of just talking about them
+I'm trying to build in public, ship useful projects, and get better every week.
+
+---
+
+## What I'm focused on
+
+- **AI automation** — tools that save time, revive leads, summarize work, and make follow-up easier
+- **Sales + distribution** — studying how companies actually got their first users and customers
+- **Crypto / Web3** — learning the technical side of crypto, DeFi, wallets, on-chain data, and trading systems
+- **Investing research** — building workflows to think more clearly about companies, markets, and risk
+- **Operator projects** — turning messy ideas into small, real products instead of just talking about them
+
+---
 
 ## What I'm building
 
-I'm starting my public GitHub journey by building small open-source projects that are free, useful, and portfolio-worthy.
+### [`byok`](https://github.com/0xisraekl/byok)
+
+A local-first model-routing proxy for AI agent frameworks.
+
+The idea: route each task to the best model in your pool — local models for private/simple work, stronger models for coding/reasoning, and cheaper models when quality doesn't need to be maxed out.
+
+Why I care: I use AI agents heavily and kept running into the same problem — one model is never the best choice for every task.
+
+### `howtheygot.com`
+
+A distribution research project about how companies got their first users.
+
+I'm interested in the real early wedge:
+
+- first channel
+- first audience
+- first trust signal
+- first growth loop
+- what founders/operators can copy
+
+---
 
 ## Why I'm learning to code
 
 I want to build leverage.
 
-Sales taught me how important distribution, timing, persistence, and psychology are. AI is giving me a way to turn those lessons into software.
+Sales taught me how much distribution, timing, persistence, and psychology matter. AI gives me a way to turn those lessons into software.
 
 My goal is to become the kind of operator who can:
 
@@ -28,27 +56,33 @@ My goal is to become the kind of operator who can:
 4. improve it fast,
 5. and eventually turn it into income or equity.
 
+---
+
 ## Current stack I'm learning
 
 - **Frontend:** Next.js, React, Tailwind CSS
 - **Backend:** Python, FastAPI, Node.js
-- **Databases:** Supabase, Postgres
-- **AI tools:** Claude, Codex, GPT, Gemini, Perplexity, Hermes
+- **Databases:** Supabase, Postgres, SQLite
+- **AI tools:** Hermes, Claude, Codex, GPT, Gemini, Perplexity
 - **Workflow:** GitHub, Cursor, Vercel, APIs, automation scripts
+
+---
 
 ## How I work
 
-I'm using AI as a dev team:
+I'm using AI as a dev team while I learn:
 
 - **Hermes** as CTO / project manager / reviewer
 - **Claude** for architecture and frontend/full-stack building
 - **Codex** for implementation, debugging, and tests
 - **Perplexity** for current research
-- **Gemini/GPT** for second opinions, product critique, and writing
+- **Gemini/GPT** for critique, second opinions, and writing
 
-But the goal is not to let AI replace learning.
+The goal is not to let AI replace learning.
 
 The goal is to use AI to ship faster while I understand what I'm building.
+
+---
 
 ## Things I like
 
@@ -60,6 +94,16 @@ The goal is to use AI to ship faster while I understand what I'm building.
 - Building practical tools that can make money
 - Learning in public
 
+---
+
 ## Current mission
 
 Build a portfolio of real projects that shows I can combine:
+
+- sales experience
+- AI automation
+- distribution thinking
+- crypto/Web3 curiosity
+- and practical software building
+
+If you're building around AI agents, distribution, sales automation, or Web3 tooling, I'm always down to learn and connect.
