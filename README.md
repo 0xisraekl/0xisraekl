@@ -2,8 +2,6 @@
 
 I'm an SDR at Datadog, a former car + solar salesperson, and an AI/Web3 learner building practical tools at the intersection of **sales, automation, distribution, and investing**.
 
-I'm not trying to look like I know everything.
-
 I'm trying to build in public, ship useful projects, and get better every week.
 
 ---
